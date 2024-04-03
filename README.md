@@ -3,7 +3,7 @@
     href="https://github.com/SecureSECODAO/dao-webapp/blob/master/LICENSE"
     alt="License"
   >
-    <img src="https://img.shields.io/github/license/SecureSECODAO/dao-webapp" />
+    <img src="https://img.shields.io/github/license/SecureSECODAO/dao-webapp" /> DAO 
   </a>
   <a
     href="https://github.com/SecureSECODAO/dao-webapp/graphs/contributors"
